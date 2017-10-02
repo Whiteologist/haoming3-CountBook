@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">haoming3-CountBook</string>
+    <string name="add">ADD</string>
+    <string name="increment">+</string>
+    <string name="decrement">-</string>
+    <string name="reset">RESET</string>
+    <string name="save">SAVE</string>
+    <string name="delete">DELETE</string>
+    <string name="name">Name</string>
+    <string name="initial">Initial Value</string>
+    <string name="current">Current Value</string>
+    <string name="comment">Comment</string>
+</resources>
